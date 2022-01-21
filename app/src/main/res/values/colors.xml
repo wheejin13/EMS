@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- login -->
+    <color name="login_bg">#240B3B</color>
+    <color name="login_description">#340B3B</color>
+
+
+    <!-- FROM Another Project -->
+    <!-- basic -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="op60_white">#99FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <color name="lightgrey">#d3d3d3</color>
+    <color name="list_selected">#e5e5e5</color>
+
+    <color name="darkgrey">#a9a9a9</color>
+    <color name="blue_dark">#0371cc</color>
+    <color name="light_black">#5a5a5a</color>
+    <color name="list_text_color">#0c1a3d</color>
+    <color name="list_divider_line">#e6e6e6</color>
+    <color name="list_normal_bg">#ffffff</color>
+    <color name="list_select_bg">#f0f0f0</color>
+
+    <!-- activity titlebar -->
+    <color name="act_titlebar_text">#111111</color>
+
+    <!-- card titlebar -->
+    <color name="card_titlebar_text">#111111</color>
+    <color name="card_item_line_type_1">#11ffffff</color>
+
+    <!-- 1px line border -->
+    <color name="border_1px_line">#dfdfdf</color>
+    <color name="border_1px_line_grey">#c4c5d0</color>
+
+    <!-- emergency screen -->
+    <color name="emergency_text">#ff918a</color>
+    <color name="emergency_btn_text">#ff6b64</color>
+
+    <!-- login -->
+    <color name="login_bg_color">#cdd0da</color>
+    <color name="login_basic_txt_color">#6a71cc</color>
+    <color name="login_bottom_description_color">#818294</color>
+    <color name="login_edit_hint_color">#33000000</color>
+    <color name="login_edit_text_color">#000000</color>
+
+    <!-- popup -->
+    <color name="popup_1dp_line">#ebecf0</color>
+    <color name="popup_text_color">#818294</color>
+    <color name="popup_left_button_text_color">#ff534e7f</color>
+
+    <!-- Main 화면 -->
+    <color name="act_bg_main">#14161e</color>
+</resources>

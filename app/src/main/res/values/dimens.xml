@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+
+    <dimen name="login_logo_img_margin">130dp</dimen>
+    <dimen name="input_form_margin_left">80dp</dimen>
+    <dimen name="input_form_margin_right">80dp</dimen>
+    <dimen name="gap_icon_n_text">10dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>
